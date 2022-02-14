@@ -1,8 +1,8 @@
-## PAI Lab assignment (lab, class presentation with slides) structure
+## PAI class presentation structure
 This directory is organised as follows:
 
       .
-      ├── bib          # Assignment bibliography
-      ├── slides       # slides of your presentation
+      ├── bib          # Presentation bibliography and references
+      ├── slides       # slides of your presentation (PDF is the preferred format)
       ├── tests        # Source code for tests
-      ├── src          # Source code 
+      ├── src          # Source code (add subdirectories if necessary) 
