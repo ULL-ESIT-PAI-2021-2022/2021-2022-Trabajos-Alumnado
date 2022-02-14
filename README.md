@@ -1,4 +1,4 @@
-## PAI class presentation structure
+## PAI class presentation template
 This directory is organised as follows:
 
       .
