@@ -1,4 +1,6 @@
-## PAI class presentation template
+## PAI class Presentation Template 
+### To be used for works to be exposed in class sessions
+
 This directory is organised as follows:
 
       .
